@@ -2,7 +2,7 @@
 layout: post
 title:  "Changing teams in a big company"
 date:   2019-10-24 21:35:07 +0100
-categories: tech industry
+categories: tech
 ---
 
 One great freedom that big companies do offer you is a reasonable amount of mobility. And it makes sense, they do put in a lot of effort to recruit and hire you, and it takes a lot of money to close you. So if you're doing well, it would make sense to keep you, even if you weren't a good match.
